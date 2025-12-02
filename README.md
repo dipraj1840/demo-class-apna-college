@@ -1,3 +1,3 @@
 # demo-class-apna-college
-This is my first git repository
+This is my first git repository.
 Author - Dipraj
